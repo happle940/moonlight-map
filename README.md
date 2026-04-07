@@ -1,8 +1,22 @@
+<div align="center">
+
 # 白月光.skill
 
-你记不住昨天中午吃了什么，但四年前的某个下午 ta 在走廊里回头看了你一眼，你记得清清楚楚。光线从哪个角度打进来，ta 穿的什么颜色，旁边有没有人。
+> *你记不住昨天中午吃了什么，但四年前的某个下午 ta 在走廊里回头看了你一眼，你记得清清楚楚。*
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![OpenClaw](https://img.shields.io/badge/OpenClaw-Skill-blueviolet)](https://openclaw.ai)
+
+<br>
+
+光线从哪个角度打进来，ta 穿的什么颜色，旁边有没有人。
 这不公平。但这就是白月光。
+
+<br>
+
+[看效果](#你会拿到什么) · [安装](#安装) · [跟前任.skill 的区别](#跟前任skill-的区别)
+
+</div>
 
 ---
 
@@ -88,4 +102,15 @@ openclaw skills add happle940/moonlight-map
 
 ---
 
+<div align="center">
+
+前任.skill 让 ta 回来。<br>
+白月光.skill 让你看清。<br><br>
+
 *不是删档。是归档。*
+
+<br>
+
+MIT License © [zhaocong](https://github.com/happle940)
+
+</div>
