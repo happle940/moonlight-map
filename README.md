@@ -2,47 +2,47 @@
 
 > 把一个忘不掉的人，整理成一份能看懂的档案。
 
-An [OpenClaw](https://openclaw.ai) skill for mapping unfinished feelings into structured emotional archives.
+[OpenClaw](https://openclaw.ai) skill — 把碎片化的未完成情感整理成结构化的月光档案。
 
-## What it does
+## 它做什么
 
-Not a chatbot. Not a role-play. Not a comfort machine.
+不是聊天机器人。不是角色扮演。不是安慰剂。
 
-Moonlight Map takes your fragmented memories about someone you can't forget — a glance, a song, an unsent message — and turns them into a **Moonlight Dossier**: a structured document that separates what really happened from what you projected.
+白月光把你关于某个忘不掉的人的碎片记忆——一个眼神、一首歌、一句没说出口的话——整理成一份**月光档案**：一份把"真正发生了什么"和"你想象中发生了什么"分开的结构化文档。
 
-## Core Features
+## 核心功能
 
-- **6-step guided conversation** — from collecting fragments to outputting a complete dossier
-- **Temperature-tagged fragments** — 🔴 still burning / 🟡 occasional ache / ⚪ cooled down
-- **3-layer analysis** — Attraction / Projection / Unfinished loops
-- **Time profiling** — then-you vs. now-you
-- **"One True Sentence"** — the cognitive flip that hits you
-- **Unsent Letter** — optional bonus, with anti-rumination guard
-- **Non-romantic fallback** — works for lost friends, passed family, mentors too
-- **Mini mode** — quick pass-through when you don't want to go deep
-- **9 safety boundaries** — non-overridable, non-negotiable
+- **6 步引导式对话** — 从收集碎片到输出完整档案
+- **碎片温度标记** — 🔴 还在烧 / 🟡 偶尔会痛 / ⚪ 已经凉了
+- **三层分析** — 吸引层 / 投射层 / 未完成循环
+- **时间剖面** — 当时的你 vs 现在的你
+- **"一句真话"** — 击中你的认知翻转
+- **未寄出的信** — 可选彩蛋，带反刍防护
+- **非恋爱关系兜底** — 也适用于逝去的亲人、失联的挚友、影响过你的老师
+- **快速模式** — 不想深聊时快速过一遍
+- **9 条安全边界** — 不可覆盖、不可协商
 
-## Quick Start
+## 快速开始
 
-1. Install [OpenClaw](https://docs.openclaw.ai)
-2. Add this skill: `openclaw skills add happle940/moonlight-map`
-3. Start a conversation with: "我忘不了一个人" or "我有个白月光"
+1. 安装 [OpenClaw](https://docs.openclaw.ai)
+2. 添加 skill：`openclaw skills add happle940/moonlight-map`
+3. 开始对话："我忘不了一个人" 或 "我有个白月光"
 
-## Safety
+## 安全承诺
 
-This skill will **never**:
-- Pretend to be that person
-- Make up what they think or feel
-- Encourage you to reach out or check their socials
-- Romanticize obsession
-- Confuse projection with fact
-- Replace professional help when needed
+这个 skill 永远不会：
+- 假装是那个人
+- 编造对方的想法或感受
+- 鼓励你联系对方或查看对方社交动态
+- 美化执念
+- 把投射混淆为事实
+- 替代专业心理帮助
 
-## License
+## 许可
 
 MIT
 
 ---
 
-*Not deletion. Archival.*
-*Not forgetting. Understanding.*
+*不是删档。是归档。*
+*不是遗忘。是理解。*
